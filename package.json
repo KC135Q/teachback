@@ -1,0 +1,14 @@
+{
+  "name": "teachback",
+  "version": "1.0.0",
+  "description": "Project folder for TrilogyEd teachback",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Dan Kaltenbaugh <Daniel@Dijatek.com>",
+  "license": "MIT"
+}
